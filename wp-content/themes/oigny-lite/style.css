@@ -1,0 +1,24 @@
+/*
+Theme Name: Oigny Lite
+Description: Oigny Lite is Dark and modern style Agency theme template for WordPress that supports fullsite editing and is fully compatible with the Gutenverse plugin. Oigny Lite is perfect for Digital Agency, Creative Agency, Online Portfolio, Designer and Freelancer websites. You can use the included core and Gutenverse versions to make it easier to create the website you desire. We want to ensure that you have the best experience using WordPress to edit your site.
+Author: Jegstudio
+Author URI: https://gutenverse.com
+Theme URI: https://gutenverse.com/themes/oigny-lite/
+Version: 1.0.5
+Stable tag: 1.0.5
+Requires at least: 6.2
+Tested up to: 6.6
+Requires PHP: 7.4.21
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: oigny-lite
+Tags: block-patterns,block-styles,custom-background,custom-menu,editor-style,full-site-editing,template-editing
+Copyright: © Jegstudio. All rights reserved.
+*/
+
+:root{
+    
+}
+.editor-styles-wrapper .block-editor-block-list__layout.is-root-container > .block-library-block__reusable-block-container {
+    max-width: 100%;
+}
